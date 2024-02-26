@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063224218080",
+    "project_id": "secondmarket-67a00",
+    "storage_bucket": "secondmarket-67a00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063224218080:android:74896908c85c565a8c5b85",
+        "android_client_info": {
+          "package_name": "com.example.secondmarket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_4EurDSQWEa1pBdJJJx0F3uyZ85fnuA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
